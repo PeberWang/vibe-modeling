@@ -1,0 +1,31 @@
+# 文档
+__pycache__/
+*.pyc
+*.pyo
+
+# LaTeX 编译产物
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 临时文件
+*.tmp
+*.bak
+*.swp
+*~
+
+# 环境配置
+.venv/
+venv/
+.env
